@@ -1,0 +1,4 @@
+[package]
+name = "deposit_circuit"
+type = "bin"
+entry = "src/deposit.nr"
